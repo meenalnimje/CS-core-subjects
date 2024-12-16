@@ -12,6 +12,7 @@ This repository contains notes for core Computer Science subjects that I have le
 6. [Theory of Computation (TOC)](https://drive.google.com/file/d/1xcVG33t9Elz3_nQtpl_qRGeAb5EYYgBu/view?usp=sharing)
 
 ## Some short document on Deadlocks and TCP
-[Deadlocks](https://drive.google.com/file/d/1221TMtXFevNEt4QTx9jjLjheRH8lntxj/view?usp=drive_link)
- [TCP](https://drive.google.com/file/d/1xSobQ6w3uGA_rDDGidglJgZ4Bn17z02s/view?usp=drive_link)
+1. [Deadlocks](https://drive.google.com/file/d/1221TMtXFevNEt4QTx9jjLjheRH8lntxj/view?usp=sharing)
+2. [TCP](https://drive.google.com/file/d/1lptEt5WstqicUC3IyrZcgEFPbgjtLoO3/view?usp=sharing)
+   
 Feel free to explore the links and use these notes as a reference for your studies. If you find these notes helpful or have suggestions for improvement, feel free to leave feedback!
